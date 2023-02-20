@@ -1,3 +1,3 @@
 # ---
 ---
-Todo el servidor de Minecraft Espina, mi proyecto de casi 3 años
+Todo el servidor de Minecraft Espina, mi proyecto de más de 3 años
